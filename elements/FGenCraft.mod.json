@@ -1,0 +1,46 @@
+{
+  "_fv": 15,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Gravitit"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Gravitit"
+      },
+      {
+        "value": "Items.ENDER_PEARL"
+      },
+      {
+        "value": "CUSTOM:Gravitit"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Gravitit"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Flygen"
+    },
+    "name": "f_gen_craft",
+    "namespace": "mod"
+  }
+}

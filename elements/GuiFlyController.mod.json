@@ -1,0 +1,85 @@
+{
+  "_fv": 15,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 156,
+    "height": 163,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "text": "разрешить взлёт",
+          "onClick": {
+            "name": "FlyOn"
+          },
+          "width": 100,
+          "height": 20,
+          "name": "разрешить взлёт",
+          "x": 159,
+          "y": 80
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "запретить взлёт",
+          "onClick": {
+            "name": "FlyOff"
+          },
+          "width": 100,
+          "height": 20,
+          "name": "запретить взлёт",
+          "x": 159,
+          "y": 107
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "криатив",
+          "onClick": {
+            "name": "Creative"
+          },
+          "width": 60,
+          "height": 20,
+          "name": "криатив",
+          "x": 159,
+          "y": 134
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "телепорт домой",
+          "onClick": {
+            "name": "Ltp"
+          },
+          "width": 95,
+          "height": 20,
+          "name": "телепорт домой",
+          "x": 168,
+          "y": 53
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "сканировать координаты",
+          "onClick": {
+            "name": "AddCor"
+          },
+          "width": 135,
+          "height": 20,
+          "name": "сканировать координаты",
+          "x": 141,
+          "y": 161
+        }
+      }
+    ]
+  }
+}

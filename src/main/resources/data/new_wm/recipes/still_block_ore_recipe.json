@@ -1,0 +1,13 @@
+{
+  "group": "new_wm",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "new_wm:still_block"
+    }
+  ],
+  "result": {
+    "item": "new_wm:still_ingot",
+    "count": 9
+  }
+}

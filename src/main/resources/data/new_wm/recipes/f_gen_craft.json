@@ -1,0 +1,30 @@
+{
+  "group": "new_wm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "new_wm:gravitit"
+    },
+    "3": {
+      "item": "new_wm:gravitit"
+    },
+    "4": {
+      "item": "minecraft:ender_pearl"
+    },
+    "5": {
+      "item": "new_wm:gravitit"
+    },
+    "7": {
+      "item": "new_wm:gravitit"
+    }
+  },
+  "result": {
+    "item": "new_wm:flygen",
+    "count": 1
+  }
+}

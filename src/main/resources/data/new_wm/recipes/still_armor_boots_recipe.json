@@ -1,0 +1,26 @@
+{
+  "group": "new_wm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "new_wm:still_ingot"
+    },
+    "2": {
+      "item": "new_wm:still_ingot"
+    },
+    "3": {
+      "item": "new_wm:still_ingot"
+    },
+    "5": {
+      "item": "new_wm:still_ingot"
+    }
+  },
+  "result": {
+    "item": "new_wm:still_armor_boots",
+    "count": 1
+  }
+}

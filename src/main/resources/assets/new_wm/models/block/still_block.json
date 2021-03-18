@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "new_wm:blocks/still_ore_block",
+    "particle": "new_wm:blocks/still_ore_block"
+  }
+}

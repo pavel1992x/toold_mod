@@ -1,0 +1,33 @@
+{
+  "group": "new_wm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "34 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "new_wm:still_pickaxe"
+    },
+    "1": {
+      "item": "new_wm:still_shovel"
+    },
+    "2": {
+      "item": "new_wm:still_axe"
+    },
+    "3": {
+      "item": "new_wm:still_hoe"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "new_wm:still_sword"
+    }
+  },
+  "result": {
+    "item": "new_wm:still_multi",
+    "count": 1
+  }
+}

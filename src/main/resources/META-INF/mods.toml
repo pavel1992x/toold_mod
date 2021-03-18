@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[35,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="new_wm"
+version="1.0.0"
+displayName="new wm"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://mcreator.net"
+authors="pavel1992x, MCreator"
+
+[[dependencies.new_wm]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.4]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

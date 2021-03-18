@@ -1,0 +1,30 @@
+{
+  "group": "new_wm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "new_wm:still_ingot"
+    },
+    "3": {
+      "item": "minecraft:redstone"
+    },
+    "4": {
+      "item": "new_wm:flygen"
+    },
+    "5": {
+      "item": "minecraft:redstone"
+    },
+    "7": {
+      "item": "new_wm:still_ingot"
+    }
+  },
+  "result": {
+    "item": "new_wm:fly_controller",
+    "count": 1
+  }
+}
